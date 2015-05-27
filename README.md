@@ -1,5 +1,5 @@
 # text-to-audio
-Converts plain text into audio with the Google Translate URL (http://translate.google.com/translate_tts?tl=&q=).
+Converts plain text into audio with the Google Translate URL.
 
 # What?
 You can use the Google Translator URL to convert plain text into audio in seconds.
